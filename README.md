@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 💬 Ask me about the ancient mythological concept of hubris
+- 😄 Pronouns: she/her
 <!--
 **Atjovan/Atjovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
